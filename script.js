@@ -31,8 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "No matter what happens today, you are enough. Always. 💖",
 
     // my own add'ns
-    "Overwhelmed? Go to the bathroom."
-    "Body tired? Stretch."
+    "Overwhelmed? Go to the bathroom.",
+    "Body tired? Stretch.",
     "In anything you do, be your genuine self."
     ];
 
